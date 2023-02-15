@@ -1,0 +1,60 @@
+VER 3 0100000000000006 "Aa" "134400"
+#showtooltip
+/cast [mod: shift] Crimson Vial; Rupture
+END
+VER 3 010000000000000B "Cc" "134400"
+#showtooltip
+/cast [mod:shift, known: Poisoned Knife] Poisoned Knife; [mod:shift, known: Shuriken Tornado] Shuriken Tornado; [known: Serrated Bone Spike] Serrated Bone Spike; [known: Shuriken Storm] Shuriken Storm
+END
+VER 3 010000000000000E "CtrlMdMouse" "134400"
+#showtooltip
+/cast [known: Shadow Dance] Shadow Dance; [known: Garrote] Garrote
+END
+VER 3 0100000000000005 "CtrlRightBtn" "134400"
+#showtooltip
+/cast [stealth] Cheap Shot; Kidney Shot
+END
+VER 3 0100000000000001 "Gg" "134400"
+#showtooltip
+/cast [stealth, mod:shift] Sap; [mod: ctrl] Shadowstep; Slice and Dice
+END
+VER 3 0100000000000002 "MdMouse" "134400"
+#showtooltip
+/cast [nocombat, nostealth] Stealth; [stealth] Ambush; [stance:2] Ambush; [known: Mutilate] Mutilate; [Known: Gloomblade] Gloomblade
+END
+VER 3 0100000000000003 "Minus" "136047"
+#showtooltip
+/cast [nostealth, nocombat] stealth; [nostealth, combat] vanish; [stealth] Stealth
+END
+VER 3 010000000000000A "Qq" "134400"
+#showtooltip
+/cast [stealth] Distract; [nostealth, mod:shift, known: Secret Technique] Secret Technique; [nostealth, known: Echoing Reprimand] Echoing Reprimand; [nostealth, known: Shadow Blades] Shadow Blades
+END
+VER 3 0100000000000010 "Rr" "134400"
+#showtooltip
+/cast [mod:shift, known:Shuriken Toss] Shuriken Toss;  [known: Fan of Knives] Fan of Knives; [known: Black Powder] Black Powder
+END
+VER 3 010000000000000C "ToT" "134400"
+#showtooltip
+/cast [@focus] Tricks of the Trade
+END
+VER 3 010000000000000D "Tt" "134400"
+#showtooltip
+/cast [mod:shift] Thistle Tea; Cloak of Shadows
+END
+VER 3 010000000000000F "Vv" "134400"
+#showtooltip
+/cast [known: Exsanguinate] Exsanguinate; [known: Cold Blood] Cold Blood
+END
+VER 3 0100000000000007 "Ww" "134400"
+#showtooltip
+/cast [stealth] Pick Pocket; [nostealth,mod:shift] Feint; evasion
+END
+VER 3 0100000000000008 "Xx" "134400"
+#showtooltip
+/cast [mod: shift,known:Deathmark] Deathmark; [mod:shift,known:Symbols of Death] Symbols of Death; Kick
+END
+VER 3 0100000000000009 "Zz" "134400"
+#showtooltip
+/cast [stealth] Shroud of Concealment; [mod:shift,nostealth] Shiv; [known: Envenom] Envenom; [known: Eviscerate] Eviscerate
+END
